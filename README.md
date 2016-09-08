@@ -1,5 +1,4 @@
-Simple README file.
- Hello world
-08/09/2016
-Author: Tutor 1
-more
+ # Install Script
+This is an install program to push Java App [*Online Shopping App*] to virtual env .
+The exercise it meant to show how to use git as a DevOps Specialist.
+
